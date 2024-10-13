@@ -1,9 +1,14 @@
 # LLM-CodeGen
 A LLM for Code Generation using the Glaive Code Assistant dataset
 
-[Dataset](https://huggingface.co/datasets/glaiveai/glaive-code-assistant)
+[glaive-code-assistant](https://huggingface.co/datasets/glaiveai/glaive-code-assistant)
 
-##
+
+### Current Updates
+
+LLM trains sucessfully, trianing loss is at a 1.6, code generated has issues
+
+## Resources
 
 This project was done in part by Andrej Karpathy's [lecture on GPT architecture](https://www.youtube.com/watch?v=kCc8FmEb1nY&ab_channel=AndrejKarpathy), as well as
  [A Survey of Large Language Models](https://arxiv.org/pdf/2303.18223) (Wayne Xin Zhao et al.) and [Attention Is All You Need](https://arxiv.org/pdf/1706.03762) (Ashish Vaswani et al.)
