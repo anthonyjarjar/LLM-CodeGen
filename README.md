@@ -3,6 +3,11 @@ A LLM for Code Generation using the Glaive Code Assistant dataset
 
 [Dataset](https://huggingface.co/datasets/glaiveai/glaive-code-assistant)
 
+##
+
+This project was done in part by Andrej Karpathy's [lecture on GPT architecture](https://www.youtube.com/watch?v=kCc8FmEb1nY&ab_channel=AndrejKarpathy), as well as
+ [A Survey of Large Language Models](https://arxiv.org/pdf/2303.18223) (Wayne Xin Zhao et al.) and [Attention Is All You Need](https://arxiv.org/pdf/1706.03762) (Ashish Vaswani et al.)
+ 
 ### Conceptual Framework
 
 1. ***Code Generation with LLM***: Use an LLM to generate code based on natural language descriptions. The LLM can be trained or fine-tuned on a dataset of code snippets paired with their descriptions to understand how to translate user input into syntactically correct code.
